@@ -12,5 +12,12 @@ namespace ConsoleApp4
         {
             Console.WriteLine("You Gay!");
         }
+
+
+        private void Test()
+        {
+            Console.WriteLine("test");
+        }
+
     }
 }
