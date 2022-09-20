@@ -8,5 +8,9 @@ namespace ConsoleApp4
 {
     internal class Master
     {
+        public void Message()
+        {
+            Console.WriteLine("You Gay!");
+        }
     }
 }
