@@ -14,9 +14,9 @@ namespace ConsoleApp4
         }
 
 
-        private void Test()
+        private void Test1()
         {
-            Console.WriteLine("test");
+            Console.WriteLine("test1");
         }
 
     }
